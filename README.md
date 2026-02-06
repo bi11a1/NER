@@ -1,8 +1,6 @@
 # Named Entity Recognition (NER)
 
-A **BERT-based Named Entity Recognition (NER)** system developed for the **eBay University Machine Learning Competition (2025)**  
-([competition page](https://eval.ai/web/challenges/challenge-page/2508/overview)).  
-The goal is to extract structured automotive attributes (e.g., brand, model, part type) from **noisy German e-commerce product titles** using token-level sequence labeling.
+A **BERT-based Named Entity Recognition (NER)** system developed for the **eBay University Machine Learning Competition (2025)** ([competition page](https://eval.ai/web/challenges/challenge-page/2508/overview)). The goal is to extract structured automotive attributes (e.g., brand, model, part type) from **noisy German e-commerce product titles** using token-level sequence labeling.
 
 ## Approach (High-Level)
 
